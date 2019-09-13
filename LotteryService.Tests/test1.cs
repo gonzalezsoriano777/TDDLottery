@@ -11,9 +11,9 @@ namespace LotteryTest
         [Test]
         public void ReturnOneNumSorted()
         {
-            int[] lotteryNumber0 = new int[1] { 170 };
-            var output = lotteryOne.SortNumbers(lotteryNumber0);
-            Assert.AreEqual(lotteryNumber0, output);
+            int[] lotteryNumber1 = new int[1] { 170 };
+            var output = lotteryOne.SortNumbers(lotteryNumber1);
+            Assert.AreEqual(lotteryNumber1, output);
 
 
         }

@@ -1,5 +1,7 @@
 using NUnit.Framework;
 using System;
+using LotteryService;
+
 
 namespace LotteryTest
 {
