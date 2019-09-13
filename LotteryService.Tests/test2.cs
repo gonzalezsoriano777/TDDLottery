@@ -9,10 +9,12 @@ namespace LotteryTest
         lotteryService lotteryTwo = new lotteryService();
 
         [Test]
-        public void return_twoNumSorted()
+        public void ReturnTwoNumSorted()
         {
-            int[] lotteryNumber2
-
+            int[] lotteryNumber2 = new int[2] { 170, 110 };
+            var output = lotteryTwo.SortNumbers(lotteryNumber2);
+            int[] fakeLottery = new int[2] { 170, 110 };
+            Assert.AreEqual(lotteryNumber2, output);
 
         }
     }
