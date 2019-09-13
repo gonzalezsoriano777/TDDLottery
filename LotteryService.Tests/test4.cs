@@ -5,6 +5,9 @@ namespace LotteryTest
 {
     class LotteryFour
     {
+
+
+
         [Test]
         public void ReturnTenNumSorted()
         {

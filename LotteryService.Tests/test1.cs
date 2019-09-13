@@ -1,13 +1,20 @@
 using NUnit.Framework;
 using System;
+using LotteryService;
 
 namespace LotteryTest
 {
-    class LotteryOne
+    public class LotteryOne
     {
+        lotteryService lotteryOne = new lotteryService(); 
+
         [Test]
-        public void return_OneNumSorted()
+        public void ReturnOneNumSorted()
         {
+            int[] lotteryNumber0 = new int[1] { 170 };
+            var output = lotteryOne.SortNumbers(lotteryNumber0);
+            Assert.AreEqual(lotteryNumber0, output);
+
 
         }
     }

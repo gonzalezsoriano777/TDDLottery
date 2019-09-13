@@ -1,0 +1,9 @@
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.deps.json
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.dll
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.pdb
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.csprojAssemblyReference.cache
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.csproj.CoreCompileInputs.cache
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfoInputs.cache
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfo.cs
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.dll
+C:\Users\DelGo\OneDrive\Documents\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.pdb
