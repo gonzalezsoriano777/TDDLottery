@@ -12,7 +12,6 @@ namespace Tests
             int[]lotteryNumbers0 = new int[0];
             var output = _testService.SortNumbers(lotteryNumbers0);
             Assert.AreEqual(new int[0],output);
-
         }
     }
 }
